@@ -1,5 +1,5 @@
 # Flutter Basics
 
-Implemented applications:
-## Calculator
+## Applications:
+- ### Calculator
 
