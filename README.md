@@ -1,2 +1,5 @@
-# Flutter-Basics
-Simple mobile applications made in flutter
+# Flutter Basics
+
+## Applications:
+- ### Calculator
+
