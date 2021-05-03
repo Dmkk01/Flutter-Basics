@@ -2,5 +2,5 @@
 
 ## Applications:
 - ### Calculator App
-- - ### Weather App
+- ### Weather App
 
